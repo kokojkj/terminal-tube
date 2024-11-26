@@ -28,3 +28,9 @@ help - Show this help message
 want to test it 
 here is the demo link :
 https://kokojkj.github.io/terminal-tube/
+
+
+this is has some help from ai 
+i know that there is api key in this and i will revoke it after 24 hours from now 
+after that you will need to use your api key that you can get by following this toturial
+https://www.youtube.com/watch?v=LLAZUTbc97I
